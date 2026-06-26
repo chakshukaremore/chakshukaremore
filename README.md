@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Chakshu
 
-<!--
-**chakshukaremore/chakshukaremore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4rt Year IT Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Java Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- SQL
+- JDBC
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git
+- GitHub
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Spring Boot
+- System Design Basics
+
+## 📌 Featured Projects
+
+- 🎯 College Predictor
+- 📚 Student Management System
+- 💰 Banking System
+
+## 🎯 Goals
+
+- Crack a Software Development Internship
+- Improve Problem Solving
+- Become a Backend Developer
+
+## 📫 Connect With Me
+
+LinkedIn:
+-https://www.linkedin.com/in/chakshu-karemore/
+
+Email:
+-chakshukaremore14@gmail.com
